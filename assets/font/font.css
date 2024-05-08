@@ -1,0 +1,30 @@
+@font-face{
+    font-family: '300Light';
+    src: url(./SinkinSans-300Light.otf);
+  }
+
+  @font-face{
+    font-family: '300LightItali';
+    src: url('./SinkinSans-300LightItalic.otf');
+  }
+  @font-face{
+    font-family: '600SemiBold';
+    src: url(./SinkinSans-600SemiBold.otf);
+  }
+  @font-face{
+    font-family: '600SemiBoldItali';
+    src: url(./SinkinSans-600SemiBoldItali.otf);
+  }
+  @font-face{
+    font-family: '400Regular';
+    src: url(./SinkinSans-400Regular.otf);
+  }
+  @font-face{
+    font-family: '600semibold';
+    src:url(./SinkinSans-600SemiBold.otf)
+  }
+  @font-face{
+    font-family: '500Medium';
+
+    src:url(./SinkinSans-500Medium.otf)
+  }
